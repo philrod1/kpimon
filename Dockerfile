@@ -51,7 +51,7 @@ RUN cd e2sm && \
 WORKDIR /go/src/gerrit.o-ran-sc.org/r/scp/ric-app/kpimon
 
 RUN mkdir pkg
-
+RUN go mod init
 RUN go build ./cmd/kpimon.go && pwd && ls -lat
 
 
