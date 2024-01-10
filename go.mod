@@ -6,9 +6,9 @@ replace gerrit.o-ran-sc.org/r/ric-plt/sdlgo => github.com/philrod1/sdlgo v1.0.0
 
 replace gerrit.o-ran-sc.org/r/com/golog => github.com/philrod1/golog v1.0.0
 
-replace gerrit.o-ran-sc.org/r/ric-plt/xapp-frame => github.com/philrod1/xapp-frame v1.0.0
+replace gerrit.o-ran-sc.org/r/ric-plt/xapp-frame => github.com/philrod1/xapp-frame v1.0.3
 
-replace github.com/philrod1/xapp-frame => github.com/philrod1/xapp-frame v1.0.2
+replace github.com/philrod1/xapp-frame => github.com/philrod1/xapp-frame v1.0.3
 
 require (
     gerrit.o-ran-sc.org/r/com/golog v0.0.2
