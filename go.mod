@@ -1,4 +1,4 @@
-module kpimon
+module github.com/philrod1/kpimon
 
 go 1.21
 
