@@ -1,6 +1,6 @@
 module kpimon
 
-go 1.21.1
+go 1.21
 
 replace gerrit.o-ran-sc.org/r/ric-plt/sdlgo => github.com/philrod1/sdlgo v1.0.0
 
