@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gerrit.o-ran-sc.org/r/scp/ric-app/kpimon/control"
+	"github.com/philrod1/kpimon/control"
 )
 
 func main() {

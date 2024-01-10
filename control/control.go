@@ -9,8 +9,8 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"gerrit.o-ran-sc.org/r/ric-plt/sdlgo"
-	"gerrit.o-ran-sc.org/r/ric-plt/xapp-frame/pkg/xapp"
+	"github.com/philrod1/sdlgo"
+	"github.com/philrod1/xapp-frame/pkg/xapp"
 	//"github.com/go-redis/redis"
 )
 
